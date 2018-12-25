@@ -11,15 +11,16 @@ description: 同战斗，共进退！
 
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
-sidebar-about-description: "说点装逼的话。。。"
-sidebar-avatar:https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+sidebar-about-description: "牛皮"
+sidebar-avatar:https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg      
+# 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/1033004258184941569/2pcCgIUK_400x400.jpg
+avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545751823714&di=d8ac1c266a18de642e334b54c99c90e3&imgtype=0&src=http%3A%2F%2Fimg1.maka.im%2FHEADLINE%2F9568%2F2dbf6e7e89e3f4d0.png%3Fx-oss-process%3Dimage%2Fformat%2Cjpg
 
 
 
